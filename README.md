@@ -4,7 +4,7 @@
 Investment App using React 
 </h1>
 
-The **Investment calculator app** developed in **React**, computes yearly returns on the invested sum.
+The **Investment calculator app** developed using **React**, computes yearly returns on the invested sum.
 
 ## Technology used
 
